@@ -1,1 +1,1 @@
-# CS301-Database-Managemant-Systems
+# CS301-Database-Management-Systems
